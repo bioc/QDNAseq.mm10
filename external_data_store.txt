@@ -1,1 +1,1 @@
-QDNAseq.mm10/data
+data
